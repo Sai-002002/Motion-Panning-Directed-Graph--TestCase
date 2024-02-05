@@ -4,19 +4,6 @@
 //
 //  Created by Sai La on 2024-02-05.
 //
-
-//
-//  Test11.cpp
-//  DG-Test-16-DFS
-//
-//  Created by Sai La on 2024-02-05.
-//
-
-//
-//  main.cpp
-//  DG-Test-16-DFS
-//
-//  Created by Sai La on 2024-02-04.
 //
 
 #include <iostream>

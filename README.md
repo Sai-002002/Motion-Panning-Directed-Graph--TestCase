@@ -1,4 +1,4 @@
-This is code to to solve pyramid problem 
+This is code to to solve pyramid problem. 
 You will be given a triangle input (which is a directed graph) and you need to find the path that provides
 the maximum possible sum of the numbers per the given rules below:
 1. You will start from the top and move downwards to the last possible node.
